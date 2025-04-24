@@ -35,7 +35,7 @@ This project helped reinforce my understanding of:
 - CSS variables for consistent styling
 - Responsive design techniques
 - Typography implementation with variable fonts
-- Implementing a JavaScript"
+- Implementing a JavaScript
 
 ## Author
 
